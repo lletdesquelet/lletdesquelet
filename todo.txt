@@ -1,7 +1,7 @@
 bug- tamaño letra según dispositivo (investigar) (móvil?)
 bug- colores según dispositivo (investigar) (móvil?)
 bug- fuentes según dispositivo (investigar) (móvil?)
-
+bug- el pie se come el texto
 
 
 -organizar estilos
