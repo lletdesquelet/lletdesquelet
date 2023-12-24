@@ -103,6 +103,16 @@
     display: grid;
     grid-template-columns: 1fr;
 }
+.index{
+    font-family: consolas;
+    color: white;
+    position: relative;
+    top: 128px;
+    margin: 16px;
+    gap: 16px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
 @media (max-aspect-ratio: 1/1) {
     .poetry {
         font-size: 2vw;
